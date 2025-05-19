@@ -57,7 +57,7 @@ a. **General Stats**
 
 * Value counts on columns like:
 
-  * `Deal`, `Industry`, `Entrepreneur Gender`, `Amount Asked`, etc.
+  * Deal, Industry, Entrepreneur Gender, Amount Asked, etc.
 
  b. **Visualizations with Matplotlib & Seaborn**
 
